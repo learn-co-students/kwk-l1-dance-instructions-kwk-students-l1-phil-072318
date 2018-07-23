@@ -35,8 +35,14 @@ Base Footwork
 2. Return right foot to the ground
 
 3. Finishing with a **small skip-step** backward
-
-
+puts left foot
+puts right foot
+raise right hand
+raise right hand
+freestyle 
+def the_dance1
+def the_dance1
+def the_dance1
 
 ### **Skip-Step**
 
